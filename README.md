@@ -66,4 +66,4 @@ This project is deployed on **Vercel**.
 
 ## License
 
-MIT — feel free to use this as a template.
+All Rights Reserved To The Repo's Owner 2026 ©
