@@ -2,7 +2,7 @@
 
 Personal portfolio website built with **Next.js 14**, **TypeScript**, and **Tailwind CSS**.
 
-🌐 Live: [mohamed-hytham.xyz](https://mohamed-hytham.xyz)
+🌐 Live: "https://my-portfolio-six-rho-44.vercel.app/"
 
 ---
 
@@ -66,4 +66,4 @@ This project is deployed on **Vercel**.
 
 ## License
 
-MIT — feel free to use this as a template.
+All Rights Reserved To The Repo's Owner 2026 ©
