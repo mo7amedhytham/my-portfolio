@@ -12,22 +12,22 @@ const projects: Project[] = [
     description:
       "Personal portfolio built with Next.js 14, TypeScript, and Tailwind CSS. Features smooth scrolling and a clean dark design.",
     tech: ["Next.js", "TypeScript", "Tailwind CSS"],
-    github: "https://github.com/yourusername/portfolio",
-    live: "https://mohamed-hytham.xyz",
+    github: "https://github.com/mo7amedhytham/my-portfolio.git",
+    live: "https://my-portfolio-six-rho-44.vercel.app/",
   },
   {
     title: "REST API Template",
     description:
       "A production-ready REST API starter with Node.js, Express, TypeScript, MongoDB, and JWT authentication.",
     tech: ["Node.js", "Express", "TypeScript", "MongoDB"],
-    github: "https://github.com/yourusername/api-template",
+    github: "https://github.com/mo7amedhytham/my-portfolio.git",
   },
   {
     title: "Discord Bot",
     description:
       "A feature-rich Discord bot with moderation, utility, and custom commands built with Discord.js and Node.js.",
     tech: ["Node.js", "Discord.js", "MongoDB"],
-    github: "https://github.com/yourusername/discord-bot",
+    github: "https://github.com/mo7amedhytham/my-portfolio.git",
   },
 ];
 
